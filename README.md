@@ -4,3 +4,4 @@
 
 - 👨‍💻 Works on rich text editor
 - 🥰 Interested in user/dev experience, cg and ml
+- Name pronounced as `/'ziSH(ə)n/`
