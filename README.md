@@ -2,6 +2,6 @@
 
 [![Zixuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxch3n)](https://github.com/zxch3n)
 
-- 👨‍💻 Works on rich text editor
+- 👨‍💻 Working on rich text editor
 - 🥰 Interested in user/dev experience, cg and ml
 - Name pronounced as `/'ziSH(ə)n/`
